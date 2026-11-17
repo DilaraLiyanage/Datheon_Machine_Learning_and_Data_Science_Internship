@@ -1,0 +1,3 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1-score,Correct Predictions,Incorrect Predictions
+Logistic Regression,0.933333,0.933333,0.933333,0.933333,28,2
+Decision Tree,0.966667,0.969697,0.966667,0.966583,29,1
