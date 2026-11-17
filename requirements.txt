@@ -1,0 +1,24 @@
+
+# Datheon Machine Learning and Data Science Internship
+# Python 3.11 or 3.12 recommended
+
+# Data manipulation
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Data visualization
+matplotlib
+seaborn
+
+# Natural language processing
+nltk
+
+# Jupyter Notebook environment
+jupyterlab
+notebook
+ipykernel
